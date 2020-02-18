@@ -6,8 +6,7 @@
     <h1>Energy Products</h1>
     <a href="{{route('products.create')}}" class="btn btn-primary mr-20">Add Product</a>
 </div>
-<hr/>
-  
+<hr/>  
 
 
   <div class="card" style="width: 100%">

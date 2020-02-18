@@ -1,7 +1,8 @@
 <hr/>
 <div class="row filters-container">
    {!! Form::open(['route' => 'product.index','method' => 'get']) !!}
-  
+
+     
   <div class="filters">
    <div class="left">
         <div class="form-group">
