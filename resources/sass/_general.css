@@ -1,0 +1,24 @@
+.mr-20 {
+  margin-right: 20px;
+}
+.page-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.filters-container form {
+  width: 100%;
+}
+.filters-container form .filters {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+.filters-container form .filters .left {
+  display: flex;
+  align-items: center;
+}
+.filters-container form .filters .left .form-group {
+  margin-right: 20px;
+}
